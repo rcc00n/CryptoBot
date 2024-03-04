@@ -3,10 +3,10 @@
 This project applies the Nadaraya-Watson Envelope Indicator to financial market data to identify potential buy and sell signals based on stock price movements. It includes a Python-based analysis pipeline that loads historical stock prices, applies the Nadaraya-Watson smoothing technique to identify trends, and visualizes these trends with potential trading signals.
 
 ## Features
-Data Preparation: Load and preprocess historical stock price data.
-Smoothing and Envelope Calculation: Apply the Nadaraya-Watson estimator to smooth price data and calculate upper and lower envelopes.
-Signal Detection: Identify potential buy and sell signals based on price interactions with the envelopes.
-Visualization: Generate and save visual representations of the price data, smoothing effects, and identified signals.
+1. Data Preparation: Load and preprocess historical stock price data.
+2. Smoothing and Envelope Calculation: Apply the Nadaraya-Watson estimator to smooth price data and calculate upper and lower envelopes.
+3. Signal Detection: Identify potential buy and sell signals based on price interactions with the envelopes.
+4. Visualization: Generate and save visual representations of the price data, smoothing effects, and identified signals.
 
 ![image](https://github.com/rcc00n/CryptoBot/assets/123768783/d4929320-2c52-4c04-805d-589bd626499b)
 
