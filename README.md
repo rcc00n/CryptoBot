@@ -1,5 +1,5 @@
 # Nadaraya-Watson Envelope Indicator Analysis
-*****Overview*****
+****Overview****
 This project applies the Nadaraya-Watson Envelope Indicator to financial market data to identify potential buy and sell signals based on stock price movements. It includes a Python-based analysis pipeline that loads historical stock prices, applies the Nadaraya-Watson smoothing technique to identify trends, and visualizes these trends with potential trading signals.
 
 **Features**
