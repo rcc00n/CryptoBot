@@ -1,4 +1,5 @@
 bybit==0.2.10
 pandas==1.2.3
 requests==2.25.1
+python-dotenv>=0.19.0
 # Add other dependencies here
